@@ -116,6 +116,8 @@ int main() {
 
 ```
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/184c665b-91c8-4f4c-960e-34d84553c6f8)
+
 
 # RESULT:
 The programs are executed successfully.
